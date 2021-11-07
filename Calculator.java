@@ -10,6 +10,6 @@ public class Calculator
         new Subtraction().difference(num1,num2);
         new Multiplication().product(num1,num2);
         new Division().ratio(num1,num2);
+        System.out.println("Thanks Bits");
         }
-
     }
